@@ -1,0 +1,111 @@
+place,state,type,best_months,budget,days,rating,crowd,safety,temperature,lat,lon,description
+Goa,Goa,beach,"November December January",8000,4,4.5,high,8,28,15.2993,74.1240,beaches and nightlife
+Gokarna,Karnataka,beach,"October November December",5000,3,4.3,low,9,27,14.5479,74.3188,peaceful beaches
+Pondicherry,Tamil Nadu,beach,"November December January",6000,3,4.4,medium,8,29,11.9416,79.8083,french town and beaches
+Kovalam,Kerala,beach,"September October November",7000,4,4.5,medium,9,27,8.4000,76.9784,scenic beach destination
+Andaman,Andaman & Nicobar,beach,"November December January February",15000,5,4.8,low,9,28,11.7401,92.6586,island tourism
+
+Munnar,Kerala,hill,"June July August September",7000,4,4.7,medium,9,18,10.0889,77.0595,tea plantations and greenery
+Coorg,Karnataka,hill,"June July August",6500,3,4.6,medium,9,20,12.3375,75.8069,coffee estates and waterfalls
+Ooty,Tamil Nadu,hill,"April May June",6000,3,4.5,high,8,19,11.4064,76.6932,cool climate destination
+Shillong,Meghalaya,hill,"June July August September",8000,4,4.6,medium,9,17,25.5788,91.8933,scotland of east
+Lonavala,Maharashtra,hill,"June July August",5000,2,4.4,high,8,22,18.7557,73.4091,monsoon destination
+
+Manali,Himachal Pradesh,mountain,"April May June",9000,5,4.7,high,8,12,32.2396,77.1887,snow and adventure sports
+Shimla,Himachal Pradesh,mountain,"March April May",8500,4,4.6,high,8,15,31.1048,77.1734,hill station beauty
+Gangtok,Sikkim,mountain,"March April May October",9000,5,4.7,medium,9,14,27.3389,88.6065,beautiful landscapes
+Leh,Ladakh,mountain,"June July August September",12000,6,4.9,low,7,8,34.1526,77.5770,high altitude desert
+
+Jaipur,Rajasthan,heritage,"November December January",6000,3,4.5,high,8,24,26.9124,75.7873,palaces and forts
+Udaipur,Rajasthan,heritage,"October November December",7000,3,4.6,medium,9,23,24.5854,73.7125,lake city
+Hampi,Karnataka,heritage,"November December January",4000,2,4.7,low,9,26,15.3350,76.4600,ancient ruins
+Mysore,Karnataka,heritage,"October November December",5000,3,4.6,medium,9,24,12.2958,76.6394,royal palace city
+Khajuraho,Madhya Pradesh,heritage,"November December January",6000,2,4.5,low,8,22,24.8318,79.9199,temple architecture
+
+Varanasi,Uttar Pradesh,spiritual,"October November December January",3500,3,4.7,high,7,20,25.3176,82.9739,holy ganga city
+Tirupati,Andhra Pradesh,spiritual,"All",3000,2,4.8,high,8,29,13.6288,79.4192,lord balaji temple
+Rameswaram,Tamil Nadu,spiritual,"November December January",4000,2,4.7,medium,9,28,9.2881,79.3129,hindu pilgrimage
+Haridwar,Uttarakhand,spiritual,"October November December",3000,2,4.6,high,8,18,29.9457,78.1642,ganga aarti destination
+Amritsar,Punjab,spiritual,"November December January",4000,2,4.9,high,9,16,31.6340,74.8723,golden temple
+Ajmer,Rajasthan,spiritual,"All",3500,2,4.6,high,8,26,26.4499,74.6399,ajmer sharif dargah
+Velankanni,Tamil Nadu,spiritual,"November December",4000,2,4.7,medium,9,27,10.6833,79.8500,church pilgrimage
+Shirdi,Maharashtra,spiritual,"All",3500,2,4.6,high,8,27,19.7666,74.4774,sai baba temple
+Bodh Gaya,Bihar,spiritual,"November December January",3000,2,4.8,medium,9,19,24.6950,84.9910,buddhist pilgrimage
+
+Mumbai,Maharashtra,city,"November December January",10000,4,4.5,high,7,30,19.0760,72.8777,metro city life
+Delhi,Delhi,city,"October November February",9000,4,4.4,high,7,22,28.7041,77.1025,capital attractions
+Bangalore,Karnataka,city,"All",8000,3,4.5,high,8,24,12.9716,77.5946,it hub and nightlife
+Hyderabad,Telangana,city,"October November December",7500,3,4.5,medium,8,27,17.3850,78.4867,food and history
+Chennai,Tamil Nadu,city,"December January February",7000,3,4.4,medium,8,29,13.0827,80.2707,cultural city
+Kolkata,West Bengal,city,"November December January",7000,3,4.5,high,8,23,22.5726,88.3639,heritage city
+Ahmedabad,Gujarat,city,"November December January",6500,3,4.4,medium,8,24,23.0225,72.5714,urban tourism
+
+Rishikesh,Uttarakhand,adventure,"October November March April",5000,3,4.7,medium,9,18,30.0869,78.2676,rafting and camping
+Bir Billing,Himachal Pradesh,adventure,"March April May",7000,3,4.8,low,9,16,32.0420,76.7280,paragliding destination
+Auli,Uttarakhand,adventure,"December January February",10000,4,4.7,low,9,4,30.5284,79.5656,skiing destination
+Meghalaya Trek,Meghalaya,adventure,"June July August",8000,5,4.8,low,9,18,25.4670,91.3662,living root bridges
+
+Kaziranga,Assam,wildlife,"November December January",8000,3,4.8,medium,9,22,26.5775,93.1711,rhino reserve
+Jim Corbett,Uttarakhand,wildlife,"November December February",7000,3,4.7,medium,9,20,29.5300,78.7747,tiger reserve
+Ranthambore,Rajasthan,wildlife,"October November December",7500,3,4.7,medium,9,24,26.0173,76.5026,tiger safari
+Gir,Gujarat,wildlife,"November December January",8000,3,4.8,medium,9,25,21.1240,70.8245,lion sanctuary
+
+
+Alleppey,Kerala,beach,"September October November",7500,3,4.7,medium,9,27,9.4981,76.3388,backwaters and houseboats
+Varkala,Kerala,beach,"October November December",6500,3,4.6,medium,9,28,8.7379,76.7163,cliff beaches and cafes
+Puri,Odisha,beach,"November December January",5000,2,4.5,high,8,26,19.8135,85.8312,beach and jagannath temple
+Diu,Daman and Diu,beach,"October November February",6000,3,4.4,low,9,25,20.7144,70.9874,quiet beach destination
+Tarkarli,Maharashtra,beach,"November December January",7000,3,4.6,low,9,27,16.0313,73.4620,scuba diving and beaches
+
+Yercaud,Tamil Nadu,hill,"October November December",4500,2,4.4,low,9,20,11.7753,78.2090,peaceful hill station
+Kodaikanal,Tamil Nadu,hill,"April May June",7000,3,4.7,medium,9,18,10.2381,77.4892,lakes and cool weather
+Wayanad,Kerala,hill,"June July August",6500,3,4.6,medium,9,19,11.6854,76.1320,waterfalls and forests
+Coonoor,Tamil Nadu,hill,"March April May",6000,2,4.5,low,9,18,11.3530,76.7959,tea gardens and viewpoints
+Mount Abu,Rajasthan,hill,"October November February",6500,3,4.4,medium,8,22,24.5926,72.7156,only hill station in rajasthan
+
+Spiti Valley,Himachal Pradesh,mountain,"June July August September",13000,6,4.9,low,8,6,32.2461,78.0345,cold desert mountain valley
+Tawang,Arunachal Pradesh,mountain,"March April May",12000,5,4.8,low,9,10,27.5866,91.8594,monasteries and mountains
+Pahalgam,Jammu and Kashmir,mountain,"April May June",10000,4,4.7,medium,8,12,34.0159,75.3180,valleys and rivers
+Sonamarg,Jammu and Kashmir,mountain,"May June July",11000,4,4.8,medium,8,10,34.2996,75.2933,meadows and glaciers
+Aizawl,Mizoram,mountain,"October November December",8000,3,4.5,low,9,16,23.7271,92.7176,hills and culture
+
+Jodhpur,Rajasthan,heritage,"November December January",6000,3,4.6,medium,8,24,26.2389,73.0243,blue city and forts
+Orchha,Madhya Pradesh,heritage,"October November December",5000,2,4.5,low,9,22,25.3510,78.6406,medieval architecture
+Mahabalipuram,Tamil Nadu,heritage,"November December January",5500,2,4.6,medium,9,28,12.6269,80.1920,shore temples and carvings
+Konark,Odisha,heritage,"November December January",4500,2,4.7,medium,8,25,19.8876,86.0945,sun temple architecture
+Chittorgarh,Rajasthan,heritage,"October November December",5000,2,4.5,medium,8,23,24.8887,74.6269,historic fort city
+
+Madurai,Tamil Nadu,spiritual,"November December January",4000,2,4.8,high,9,27,9.9252,78.1198,meenakshi temple city
+Sabarimala,Kerala,spiritual,"November December January",3500,2,4.7,high,8,22,9.4326,77.0900,ayyappa pilgrimage
+Dwarka,Gujarat,spiritual,"October November December",4500,2,4.7,medium,9,28,22.2442,68.9685,krishna temple town
+Somnath,Gujarat,spiritual,"October November February",4500,2,4.8,medium,9,27,20.8880,70.4012,famous jyotirlinga temple
+Pushkar,Rajasthan,spiritual,"November December January",5000,3,4.6,medium,8,22,26.4898,74.5511,holy lake and temples
+Nagore,Tamil Nadu,spiritual,"November December",3500,2,4.5,medium,9,28,10.8155,79.8431,famous dargah pilgrimage
+Basilica of Bom Jesus,Goa,spiritual,"November December January",5000,2,4.7,medium,9,26,15.5009,73.9116,historic church pilgrimage
+
+Pune,Maharashtra,city,"October November December",7000,3,4.5,medium,8,24,18.5204,73.8567,modern city and culture
+Surat,Gujarat,city,"November December January",6500,2,4.4,medium,8,27,21.1702,72.8311,business and food city
+Lucknow,Uttar Pradesh,city,"November December January",6000,3,4.5,medium,8,21,26.8467,80.9462,nawabi heritage city
+Bhubaneswar,Odisha,city,"November December January",5500,2,4.4,medium,8,25,20.2961,85.8245,temple city
+Indore,Madhya Pradesh,city,"October November December",6000,2,4.5,medium,8,23,22.7196,75.8577,cleanest city in india
+
+Ziro Valley,Arunachal Pradesh,adventure,"March April May",10000,5,4.8,low,9,15,27.5883,93.8285,valley trekking and nature
+Dandeli,Karnataka,adventure,"October November December",6500,3,4.6,medium,9,24,15.2667,74.6167,river rafting and jungle stay
+Rann of Kutch,Gujarat,adventure,"November December January",9000,4,4.7,medium,8,18,23.7337,69.8597,white desert camping
+Chopta,Uttarakhand,adventure,"March April May",7000,3,4.8,low,9,10,30.4894,79.2153,mini switzerland trekking
+Sandakphu,West Bengal,adventure,"October November December",12000,6,4.9,low,8,7,27.1040,88.0106,himalayan trekking destination
+
+Sundarbans,West Bengal,wildlife,"November December January",8000,4,4.7,medium,8,24,21.9497,89.1833,mangrove tiger reserve
+Periyar,Kerala,wildlife,"October November December",7000,3,4.8,medium,9,20,9.4624,77.2368,elephant and tiger reserve
+Bandipur,Karnataka,wildlife,"October November January",7500,3,4.7,medium,9,21,11.6659,76.6286,national park and safari
+Kanha,Madhya Pradesh,wildlife,"November December February",8500,4,4.8,medium,9,22,22.3344,80.6115,barasingha reserve forest
+Hemis National Park,Ladakh,wildlife,"June July August",10000,5,4.8,low,8,5,33.8167,77.5667,snow leopard habitat
+
+Mumbai,Maharashtra,city,"November December January February",10000,4,4.6,high,7,29,19.0760,72.8777,financial capital with nightlife marine drive and bollywood attractions
+Navi Mumbai,Maharashtra,city,"November December January",8500,3,4.5,medium,8,28,19.0330,73.0297,planned modern city with parks malls and coastal attractions
+Delhi,Delhi,city,"October November December February",9000,4,4.5,high,7,22,28.7041,77.1025,capital city with monuments street food and shopping
+New Delhi,Delhi,city,"October November December January",9500,4,4.6,high,7,21,28.6139,77.2090,india gate parliament museums and luxury markets
+Old Delhi,Delhi,heritage,"November December January",7000,2,4.5,high,7,20,28.6562,77.2410,red fort chandni chowk and mughal heritage
+Kolkata,West Bengal,city,"November December January February",7000,3,4.6,high,8,23,22.5726,88.3639,cultural capital with colonial architecture and famous sweets
+Salt Lake City,West Bengal,city,"October November December",6500,2,4.4,medium,8,24,22.5720,88.4170,modern township with tech parks and cafes
+Howrah,West Bengal,heritage,"November December January",5000,2,4.3,high,7,23,22.5958,88.2636,howrah bridge riverside ghats and historical culture
