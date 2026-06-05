@@ -21,16 +21,21 @@ def _send_email(to: str, subject: str, body: str) -> None:
     if not config.EMAIL_ENABLED:
         print(f"[DEV EMAIL] To: {to} | Subject: {subject}\n{body}")
         return
+
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"]    = config.SMTP_FROM
     msg["To"]      = to
     msg.attach(MIMEText(body, "html"))
-    with smtplib.SMTP(config.SMTP_HOST, config.SMTP_PORT) as server:
-        server.starttls()
-        server.login(config.SMTP_USER, config.SMTP_PASSWORD)
-        server.sendmail(config.SMTP_FROM, to, msg.as_string())
 
+    try:
+        with smtplib.SMTP_SSL(config.SMTP_HOST, 465) as server:
+            server.login(config.SMTP_USER, config.SMTP_PASSWORD)
+            server.sendmail(config.SMTP_FROM, to, msg.as_string())
+            print(f"[EMAIL] Sent to {to} via SSL port 465")
+    except Exception as e:
+        print(f"[EMAIL ERROR] {e}")
+        raise RuntimeError("Email service unavailable.") from e
 
 def _otp_email_body(purpose: str, code: str) -> tuple[str, str]:
     titles = {

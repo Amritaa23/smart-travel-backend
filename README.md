@@ -62,7 +62,7 @@ cp .env.example .env
 uvicorn app:app --reload --port 8000
 ```
 
-Interactive API docs → **http://localhost:8000/docs**
+Interactive API docs → *const API = "https://smart-travel-backend-production-aedc.up.railway.app/api/v1";*
 
 ---
 
