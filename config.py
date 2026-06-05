@@ -29,7 +29,8 @@ SMTP_USER     : str  = os.getenv("SMTP_USER", "")
 SMTP_PASSWORD : str  = os.getenv("SMTP_PASSWORD", "")
 SMTP_FROM     : str  = os.getenv("SMTP_FROM", "noreply@smarttravel.com")
 EMAIL_ENABLED : bool = bool(SMTP_USER and SMTP_PASSWORD)
-
+RESEND_API_KEY: str = os.getenv("RESEND_API_KEY", "")
+EMAIL_ENABLED: bool = bool(RESEND_API_KEY)
 # ── ML constants ──────────────────────────────────────────────────────────────
 CROWD_SCORE: dict[str, int] = {"low": 3, "medium": 2, "high": 1}
 MONTHS: list[str] = [
