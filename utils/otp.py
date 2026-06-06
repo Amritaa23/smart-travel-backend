@@ -21,7 +21,7 @@ def _send_email(to: str, subject: str, body: str) -> None:
 
     resend.api_key = config.RESEND_API_KEY
     resend.Emails.send({
-        "from": "onboarding@resend.dev",
+        "from": "noreply@amritaarl.com",
         "to": to,
         "subject": subject,
         "html": body,
